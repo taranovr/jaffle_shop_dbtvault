@@ -1,6 +1,3 @@
-Ссылка на ответы к дз https://docs.google.com/document/d/1ZyWTREwG8Y-UI63mwyLZzt-XkaBcYd_7qRCWiJ4lzOA/edit?usp=sharing
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25080503/65772647-89525700-e132-11e9-80ff-12ad30a25466.png">
 </p>
