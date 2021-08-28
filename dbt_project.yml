@@ -1,7 +1,7 @@
 name: jaffle_shop_dbtvault
 profile: jaffle_shop
 version: '0.1.0'
-require-dbt-version: ['>=0.18.0', '<0.20.0']
+require-dbt-version: ['>=0.18.0', '<=0.20.1']
 config-version: 2
 
 analysis-paths:
@@ -43,4 +43,9 @@ models:
       sats:
         tags:
           - 'satellite'
+    marts:
+      tags:
+        - 'marts'
+      materialized: view
+      transient: false
 
